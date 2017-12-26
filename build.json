@@ -1,0 +1,14 @@
+{
+	"id": "bootstrap_grid",
+	"version": "1.0",
+	"description": "Bootstrap Grid Layout Shortcodes",
+	"categories": [
+		"design",
+		"bootstrap",
+		"grid"
+	],
+	"compatible_from": "2018.1",
+	"dependencies": [
+		"bootstrap"
+	]
+}
